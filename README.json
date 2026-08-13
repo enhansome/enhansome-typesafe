@@ -1,0 +1,1084 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koskimas/kysely",
+          "description": "A type-safe TypeScript SQL query builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:46:32Z",
+            "owner": "kysely-org",
+            "repo": "kysely",
+            "stars": 14120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gajus/slonik",
+          "description": "A Node.js PostgreSQL client with runtime and build-time type safety, and composable SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T16:12:12Z",
+            "owner": "gajus",
+            "repo": "slonik",
+            "stars": 4931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-safeql/safeql",
+          "description": "Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T08:59:25Z",
+            "owner": "ts-safeql",
+            "repo": "safeql",
+            "stars": 1557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kristiandupont/kanel",
+          "description": "Generate Typescript types from Postgres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:02:42Z",
+            "owner": "kristiandupont",
+            "repo": "kanel",
+            "stars": 1170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wsporto/typesql",
+          "description": "Generate Typescript API from raw MySQL queries. Supports MySQL, Sqlite and LibSQL (Turso).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:59:42Z",
+            "owner": "wsporto",
+            "repo": "typesql",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litdb/litdb",
+          "description": "Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-10T14:21:50Z",
+            "owner": "litdb",
+            "repo": "litdb",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "samchon/safe-typeorm",
+          "description": "TypeORM helper library enhancing safety in the compilation level.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-05-18T15:32:15Z",
+            "owner": "samchon",
+            "repo": "safe-typeorm",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aerotoad/neboa",
+          "description": "Type-safe NoSQL with Node & SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-10T21:16:31Z",
+            "owner": "aerotoad",
+            "repo": "neboa",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bridge-codes/bridge-mongo",
+          "description": "A fully typed mongoose ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-13T13:43:11Z",
+            "owner": "bridge-codes",
+            "repo": "bridge-mongo",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trpc/trpc",
+          "description": "Create end-to-end typesafe APIs with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:08:32Z",
+            "owner": "trpc",
+            "repo": "trpc",
+            "stars": 40516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "encoredev/encore",
+          "description": "Type-safe backend framework with declarative infrastructure and automatic API client generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:12:43Z",
+            "owner": "encoredev",
+            "repo": "encore",
+            "stars": 12253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orval-labs/orval",
+          "description": "Generate type-safe TypeScript clients, hooks, and mocks from OpenAPI/Swagger specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:17:12Z",
+            "owner": "orval-labs",
+            "repo": "orval",
+            "stars": 6346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare/capnweb",
+          "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:26:46Z",
+            "owner": "cloudflare",
+            "repo": "capnweb",
+            "stars": 3917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-rest/ts-rest",
+          "description": "RPC-like client, contract, and server implementation for a pure REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T20:47:21Z",
+            "owner": "ts-rest",
+            "repo": "ts-rest",
+            "stars": 3332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetterTyped/hyper-fetch",
+          "description": "Hyper Fetch is a data-exchange framework focusing on type-safe design and ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T19:45:33Z",
+            "owner": "BetterTyped",
+            "repo": "hyper-fetch",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stepci/garph",
+          "description": "Fullstack GraphQL Framework for TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-01T21:55:54Z",
+            "owner": "stepci",
+            "repo": "garph",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ardatan/feTS",
+          "description": "TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:43:23Z",
+            "owner": "ardatan",
+            "repo": "feTS",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "betwixt-labs/tempo",
+          "description": "Cross-platform, end-to-end typesafe APIs with low latency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-12T11:45:18Z",
+            "owner": "6over3",
+            "repo": "tempo",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "type-predicate-generator",
+          "description": "100% type safe predicates for JSON APIs with blazing performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-19T16:49:18Z",
+            "owner": "peter-leonov",
+            "repo": "type-predicate-generator",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unnoq/orpc",
+          "description": "Typesafe APIs Made Simple, with first-class OpenAPI support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:19:29Z",
+            "owner": "dinwwwh",
+            "repo": "orpc",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "0no-co/gql.tada",
+          "description": "Magical GraphQL query engine for TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:05:30Z",
+            "owner": "0no-co",
+            "repo": "gql.tada",
+            "stars": 2965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hayes/pothos",
+          "description": "Create GraphQL schemas in TypeScript using a strongly typed code-first approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T03:31:02Z",
+            "owner": "hayes",
+            "repo": "pothos",
+            "stars": 2609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gqty-dev/gqty",
+          "description": "A GraphQL client built for rapid iteration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:05:14Z",
+            "owner": "gqty-dev",
+            "repo": "gqty",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "captbaritone/grats",
+          "description": "Implementation-First GraphQL for TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T18:18:53Z",
+            "owner": "captbaritone",
+            "repo": "grats",
+            "stars": 357
+          }
+        }
+      ],
+      "title": "GraphQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TanStack/router",
+          "description": "Type-safe router with built-in caching & URL state management for various frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:33:41Z",
+            "owner": "TanStack",
+            "repo": "router",
+            "stars": 14929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "47ng/nuqs",
+          "description": "Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:04:51Z",
+            "owner": "47ng",
+            "repo": "nuqs",
+            "stars": 10738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TanStack/form",
+          "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:45:03Z",
+            "owner": "TanStack",
+            "repo": "form",
+            "stars": 6652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typesafe-i18n",
+          "description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T20:28:52Z",
+            "owner": "codingcommons",
+            "repo": "typesafe-i18n",
+            "stars": 2474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iway1/react-ts-form",
+          "description": "Build maintainable, type-safe forms faster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-22T21:46:48Z",
+            "owner": "iway1",
+            "repo": "react-ts-form",
+            "stars": 2042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "desko27/react-call",
+          "description": "Call your React components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T10:24:33Z",
+            "owner": "desko27",
+            "repo": "react-call",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IdoPesok/zsa",
+          "description": "Typesafe Server Actions for Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T23:49:45Z",
+            "owner": "IdoPesok",
+            "repo": "zsa",
+            "stars": 977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StellateHQ/fuse.js",
+          "description": "Fuse.js: The opinionated framework for creating typesafe data layers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-22T15:38:21Z",
+            "owner": "StellateHQ",
+            "repo": "fuse",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swan-io/chicane",
+          "description": "A simple and safe router for React and TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-11T11:23:40Z",
+            "owner": "zoontek",
+            "repo": "chicane",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nivandres/intl-t",
+          "description": "A Object-Typed Node-Based i18n Translation Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:57:13Z",
+            "owner": "nivandres",
+            "repo": "intl-t",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamesopstad/typesafe-router",
+          "description": "A tiny wrapper library for React Router that dramatically improves type safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-16T11:01:36Z",
+            "owner": "jamesopstad",
+            "repo": "typesafe-router",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vanilla-extract-css/vanilla-extract",
+          "description": "Zero-runtime Stylesheets-in-TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T00:43:17Z",
+            "owner": "vanilla-extract-css",
+            "repo": "vanilla-extract",
+            "stars": 10408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chakra-ui/panda",
+          "description": "Universal, Type-Safe, CSS-in-JS Framework for Product Teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:05:05Z",
+            "owner": "chakra-ui",
+            "repo": "panda",
+            "stars": 6151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextui-org/tailwind-variants",
+          "description": "Tailwindcss first-class variant API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:09:28Z",
+            "owner": "heroui-inc",
+            "repo": "tailwind-variants",
+            "stars": 3290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gregberge/twc",
+          "description": "Create reusable React + Tailwind components in one line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-14T20:10:06Z",
+            "owner": "gregberge",
+            "repo": "twc",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokenami/tokenami",
+          "description": "Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T01:33:17Z",
+            "owner": "tokenami",
+            "repo": "tokenami",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sannajammeh/tw-classed",
+          "description": "Make your Tailwind components re-usable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-22T17:35:43Z",
+            "owner": "sannajammeh",
+            "repo": "tw-classed",
+            "stars": 527
+          }
+        }
+      ],
+      "title": "Styles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dethcrypto/TypeChain",
+          "description": "TypeScript bindings for Ethereum smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-10T10:41:35Z",
+            "owner": "dethcrypto",
+            "repo": "TypeChain",
+            "stars": 2793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wagmi-dev/abitype",
+          "description": "Strict TypeScript types for Ethereum ABIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T15:45:54Z",
+            "owner": "wevm",
+            "repo": "abitype",
+            "stars": 547
+          }
+        }
+      ],
+      "title": "Blockchain"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Effect-TS/effect",
+          "description": "A fully-fledged functional effect system for TypeScript with a rich standard library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:56:55Z",
+            "owner": "Effect-TS",
+            "repo": "effect",
+            "stars": 15254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gvergnaud/TS-Pattern",
+          "description": "The exhaustive Pattern Matching library for TypeScript with smart type inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:33:38Z",
+            "owner": "gvergnaud",
+            "repo": "ts-pattern",
+            "stars": 15122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcanti/fp-ts",
+          "description": "A library for typed functional programming in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T19:55:05Z",
+            "owner": "gcanti",
+            "repo": "fp-ts",
+            "stars": 11534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toss/es-toolkit",
+          "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:43:08Z",
+            "owner": "toss",
+            "repo": "es-toolkit",
+            "stars": 11288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "millsp/ts-toolbelt",
+          "description": "TypeScript's largest type utility library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-02T02:46:18Z",
+            "owner": "millsp",
+            "repo": "ts-toolbelt",
+            "stars": 7152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gustavoguichard/string-ts",
+          "description": "Strongly typed string functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T23:19:26Z",
+            "owner": "gustavoguichard",
+            "repo": "string-ts",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swan-io/boxed",
+          "description": "Essential building-blocks for functional & safe TypeScript code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T13:09:20Z",
+            "owner": "bloodyowl",
+            "repo": "boxed",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codpro2005/ts-regexp",
+          "description": "A strictly typed & minimal RegExp wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T14:56:04Z",
+            "owner": "codpro2005",
+            "repo": "ts-regexp",
+            "stars": 327
+          }
+        }
+      ],
+      "title": "Functional Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastra",
+          "description": "Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:28:45Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "withastro/flue",
+          "description": "The sandbox agent framework from Astro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T10:07:09Z",
+            "owner": "withastro",
+            "repo": "flue",
+            "stars": 7853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vercel/eve",
+          "description": "The framework for building agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:07:24Z",
+            "owner": "vercel",
+            "repo": "eve",
+            "stars": 4584
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "colinhacks/zod",
+          "description": "TypeScript-first schema validation with static type inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:02:56Z",
+            "owner": "colinhacks",
+            "repo": "zod",
+            "stars": 43449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sindresorhus/type-fest",
+          "description": "A collection of essential TypeScript types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:47:43Z",
+            "owner": "sindresorhus",
+            "repo": "type-fest",
+            "stars": 17351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabian-hiller/valibot",
+          "description": "The modular and type safe schema library for validating structural data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:19:56Z",
+            "owner": "open-circle",
+            "repo": "valibot",
+            "stars": 8928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supermacro/neverthrow",
+          "description": "Type-Safe Errors for JavaScript & TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T23:23:06Z",
+            "owner": "supermacro",
+            "repo": "neverthrow",
+            "stars": 7669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "samchon/typia",
+          "description": "Super-fast/easy Runtime validator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:22:12Z",
+            "owner": "samchon",
+            "repo": "typia",
+            "stars": 5867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmno-dev/varlock",
+          "description": "AI-safe .env files with schema-driven validation, secret handling, and leak scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:01:50Z",
+            "owner": "dmno-dev",
+            "repo": "varlock",
+            "stars": 4151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edmundhung/conform",
+          "description": "A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T21:10:30Z",
+            "owner": "edmundhung",
+            "repo": "conform",
+            "stars": 2573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecyrbe/zodios",
+          "description": "A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:18:45Z",
+            "owner": "ecyrbe",
+            "repo": "zodios",
+            "stars": 1915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "true-myth/true-myth",
+          "description": "A library for safer and smarter error- and \"nothing\"-handling in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T16:46:37Z",
+            "owner": "true-myth",
+            "repo": "true-myth",
+            "stars": 1354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arcanis/clipanion",
+          "description": "Type-safe CLI library / framework with no runtime dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-06T09:16:49Z",
+            "owner": "arcanis",
+            "repo": "clipanion",
+            "stars": 1256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KATT/envsafe",
+          "description": "Makes sure you don't accidentally deploy apps with missing or invalid environment variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-02T14:58:23Z",
+            "owner": "KATT",
+            "repo": "envsafe",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g-plane/typed-query-selector",
+          "description": "Better typed and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T06:59:50Z",
+            "owner": "g-plane",
+            "repo": "typed-query-selector",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeasonedSoftware/domain-functions",
+          "description": "Decouple your business logic from your framework with first-class type inference from end to end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-30T00:59:30Z",
+            "owner": "seasonedcc",
+            "repo": "composable-functions",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tatethurston/nextjs-routes",
+          "description": "Type safe routing for Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-17T01:11:20Z",
+            "owner": "tatethurston",
+            "repo": "nextjs-routes",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nicojs/typed-inject",
+          "description": "Type safe dependency injection for TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-01T19:12:10Z",
+            "owner": "nicojs",
+            "repo": "typed-inject",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jetpack-io/typeid-js",
+          "description": "TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T16:25:30Z",
+            "owner": "jetify-com",
+            "repo": "typeid-js",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "venables/typed-route-handler",
+          "description": "Type-safe API Route Handlers for Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-29T18:37:46Z",
+            "owner": "venables",
+            "repo": "typed-route-handler",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "richardsolomou/next-safe-route",
+          "description": "Type-safe and validated Route Handlers for Next.js",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-22T20:22:17Z",
+            "owner": "richardsolomou",
+            "repo": "next-safe-route",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "Thanks goes to these wonderful people (emoji key):\nThis project follows the all-contributors specification. Contributions of any kind welcome!",
+      "items": [],
+      "title": "Contributors ✨"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:39.314Z",
+    "original_repository": "jellydn/awesome-typesafe",
+    "original_repository_sha": "680f31e6fe95dd4deb8a756ca359d0b615b18aac",
+    "enhanced_repository": "enhansome/enhansome-typesafe",
+    "enhanced_repository_description": null,
+    "title": "Awesome Typesafe with stars"
+  }
+}
