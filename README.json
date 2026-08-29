@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A type-safe TypeScript SQL query builder",
+                "homepage": "https://kysely.dev",
                 "id": 341139727,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T07:46:10Z",
+                "open_issues": 168,
                 "owner": "kysely-org",
                 "repo": "kysely",
-                "stars": 14175
+                "stars": 14175,
+                "topics": [
+                  "browser",
+                  "bun",
+                  "database",
+                  "deno",
+                  "microsoft-sql-server",
+                  "mssql",
+                  "mysql",
+                  "nodejs",
+                  "postgresql",
+                  "query-builder",
+                  "sql",
+                  "sqlite",
+                  "type-safe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -28,12 +48,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.",
+                "homepage": null,
                 "id": 86057635,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-26T16:12:12Z",
+                "open_issues": 1,
                 "owner": "gajus",
                 "repo": "slonik",
-                "stars": 4933
+                "stars": 4933,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "postgres",
+                  "postgresql",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -44,12 +75,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.",
+                "homepage": "https://safeql.dev",
                 "id": 534079578,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T08:59:25Z",
+                "open_issues": 19,
                 "owner": "ts-safeql",
                 "repo": "safeql",
-                "stars": 1561
+                "stars": 1561,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "javascript",
+                  "lint",
+                  "postgres",
+                  "sql",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -60,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Typescript types from Postgres",
+                "homepage": "https://kristiandupont.github.io/kanel/",
                 "id": 241444658,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:36:15Z",
+                "open_issues": 51,
                 "owner": "kristiandupont",
                 "repo": "kanel",
-                "stars": 1174
+                "stars": 1174,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -76,12 +125,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)",
+                "homepage": "https://typesql.pages.dev",
                 "id": 277012418,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T00:59:42Z",
+                "open_issues": 5,
                 "owner": "wsporto",
                 "repo": "typesql",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "d1",
+                  "deno",
+                  "mysql",
+                  "node",
+                  "postgres",
+                  "postgresql",
+                  "raw-sql",
+                  "sql",
+                  "sqlite",
+                  "turso",
+                  "typesafe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -92,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL",
+                "homepage": null,
                 "id": 881921668,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-10T14:21:50Z",
+                "open_issues": 0,
                 "owner": "litdb",
                 "repo": "litdb",
-                "stars": 326
+                "stars": 326,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -108,12 +180,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TypeORM helper library enhancing safety in the compilation level",
+                "homepage": null,
                 "id": 329561824,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-18T15:32:15Z",
+                "open_issues": 3,
                 "owner": "samchon",
                 "repo": "safe-typeorm",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "compilation",
+                  "orm",
+                  "safe",
+                  "sql",
+                  "typeorm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -124,12 +208,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe NoSQL with Node & SQLite. 🌫️💽",
+                "homepage": "https://aerotoad.github.io/neboa/",
                 "id": 671448528,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-10T21:16:31Z",
+                "open_issues": 1,
                 "owner": "aerotoad",
                 "repo": "neboa",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "database",
+                  "document",
+                  "nodejs",
+                  "nosql",
+                  "sqlite3",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -140,12 +236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully typed mongoose ORM",
+                "homepage": "https://mongo.bridge.codes",
                 "id": 598262832,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-13T13:43:11Z",
+                "open_issues": 1,
                 "owner": "bridge-codes",
                 "repo": "bridge-mongo",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "mongodb",
+                  "mongoose",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -163,12 +269,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
+                "homepage": "https://tRPC.io",
                 "id": 280557054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T21:58:09Z",
+                "open_issues": 313,
                 "owner": "trpc",
                 "repo": "trpc",
-                "stars": 40555
+                "stars": 40556,
+                "topics": [
+                  "api",
+                  "next",
+                  "nextjs",
+                  "prisma",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -179,12 +297,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The infrastructure platform for the intelligence era",
+                "homepage": "https://encore.dev",
                 "id": 339786950,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T08:13:10Z",
+                "open_issues": 121,
                 "owner": "encoredev",
                 "repo": "encore",
-                "stars": 12318
+                "stars": 12318,
+                "topics": [
+                  "aws",
+                  "backend",
+                  "cloud",
+                  "cloud-native",
+                  "database",
+                  "devops",
+                  "devops-automation",
+                  "distributed-systems",
+                  "encore",
+                  "gcp",
+                  "go",
+                  "golang",
+                  "infrastructure-as-code",
+                  "infrastructure-automation",
+                  "microservices",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -195,12 +336,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
+                "homepage": "https://orval.dev",
                 "id": 238402553,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:26:07Z",
+                "open_issues": 69,
                 "owner": "orval-labs",
                 "repo": "orval",
-                "stars": 6404
+                "stars": 6404,
+                "topics": [
+                  "angular",
+                  "axios-client",
+                  "codegen",
+                  "faker",
+                  "mock",
+                  "msw",
+                  "openapi-specification",
+                  "orval",
+                  "react",
+                  "react-query",
+                  "swagger",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -211,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+                "homepage": null,
                 "id": 998173252,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:43:53Z",
+                "open_issues": 31,
                 "owner": "cloudflare",
                 "repo": "capnweb",
-                "stars": 3961
+                "stars": 3961,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -227,12 +391,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RPC-like client, contract, and server implementation for a pure REST API",
+                "homepage": "https://ts-rest.com",
                 "id": 517037664,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-06T20:47:21Z",
+                "open_issues": 141,
                 "owner": "ts-rest",
                 "repo": "ts-rest",
-                "stars": 3334
+                "stars": 3334,
+                "topics": [
+                  "api",
+                  "fastify",
+                  "nestjs",
+                  "nextjs",
+                  "openapi",
+                  "react",
+                  "react-query",
+                  "rest",
+                  "rpc",
+                  "solid",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -243,12 +424,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Fetching and realtime data exchange framework.",
+                "homepage": "https://hyperfetch.bettertyped.com/",
                 "id": 420032474,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T11:44:44Z",
+                "open_issues": 1,
                 "owner": "BetterTyped",
                 "repo": "hyper-fetch",
-                "stars": 1331
+                "stars": 1331,
+                "topics": [
+                  "ajax",
+                  "builder",
+                  "cache",
+                  "data-exchange",
+                  "fetch",
+                  "firebase",
+                  "graphql",
+                  "javascript",
+                  "nextjs",
+                  "offline",
+                  "persistence",
+                  "query",
+                  "react",
+                  "realtime",
+                  "sockets",
+                  "sse",
+                  "swr",
+                  "typescript",
+                  "websockets",
+                  "xhr"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -259,12 +466,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fullstack GraphQL Framework for TypeScript",
+                "homepage": "https://garph.dev",
                 "id": 604320498,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-01T21:55:54Z",
+                "open_issues": 27,
                 "owner": "stepci",
                 "repo": "garph",
-                "stars": 1313
+                "stars": 1313,
+                "topics": [
+                  "graphql",
+                  "schema-builder",
+                  "trpc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -275,12 +492,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience",
+                "homepage": "https://fets.dev",
                 "id": 608596383,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T01:04:04Z",
+                "open_issues": 11,
                 "owner": "ardatan",
                 "repo": "feTS",
-                "stars": 720
+                "stars": 720,
+                "topics": [
+                  "fetch",
+                  "fetch-api",
+                  "json-schema",
+                  "openapi",
+                  "swagger",
+                  "typescript",
+                  "whatwg",
+                  "whatwg-fetch",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -291,12 +523,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.",
+                "homepage": "https://tempo.im",
                 "id": 578803156,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-12T11:45:18Z",
+                "open_issues": 0,
                 "owner": "6over3",
                 "repo": "tempo",
-                "stars": 410
+                "stars": 410,
+                "topics": [
+                  "api",
+                  "cloudflare-workers",
+                  "javascript",
+                  "rpc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -307,12 +550,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type safe predicate generator for TypeScript",
+                "homepage": "https://peter-leonov.github.io/type-predicate-generator/",
                 "id": 903855894,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-19T16:49:18Z",
+                "open_issues": 13,
                 "owner": "peter-leonov",
                 "repo": "type-predicate-generator",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "api",
+                  "codegen",
+                  "schema",
+                  "typesafety",
+                  "typescipt"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -323,12 +577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typesafe APIs Made Simple 🪄",
+                "homepage": "https://orpc.dev",
                 "id": 1132489841,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:15:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:45:35Z",
+                "open_issues": 0,
                 "owner": "dinwwwh",
                 "repo": "orpc",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -346,12 +605,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪄 Magical GraphQL query engine for TypeScript ",
+                "homepage": "https://gql-tada.0no.co",
                 "id": 662817343,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T05:39:54Z",
+                "open_issues": 13,
                 "owner": "0no-co",
                 "repo": "gql.tada",
-                "stars": 2968
+                "stars": 2968,
+                "topics": [
+                  "graphql",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -362,12 +629,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach",
+                "homepage": "https://pothos-graphql.dev",
                 "id": 214364558,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2026-08-25T22:31:20Z",
+                "open_issues": 67,
                 "owner": "hayes",
                 "repo": "pothos",
-                "stars": 2613
+                "stars": 2613,
+                "topics": [
+                  "graphql",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -378,12 +653,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The No-GraphQL Client for TypeScript",
+                "homepage": "https://gqty.dev",
                 "id": 375822193,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T01:27:36Z",
+                "open_issues": 58,
                 "owner": "gqty-dev",
                 "repo": "gqty",
-                "stars": 1038
+                "stars": 1038,
+                "topics": [
+                  "codegen",
+                  "discord",
+                  "graphql",
+                  "hacktoberfest",
+                  "javascript",
+                  "nextjs",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -394,12 +684,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation-First GraphQL for TypeScript",
+                "homepage": "https://grats.capt.dev",
                 "id": 611587268,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T18:18:53Z",
+                "open_issues": 30,
                 "owner": "captbaritone",
                 "repo": "grats",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "code-first",
+                  "graphql",
+                  "graphql-server",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -417,12 +717,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).",
+                "homepage": "https://tanstack.com/router",
                 "id": 165670309,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:36:31Z",
+                "open_issues": 582,
                 "owner": "TanStack",
                 "repo": "router",
-                "stars": 15007
+                "stars": 15007,
+                "topics": [
+                  "framework",
+                  "fullstack",
+                  "javascript",
+                  "react",
+                  "route",
+                  "router",
+                  "routing",
+                  "rpc",
+                  "search",
+                  "searchparams",
+                  "server-functions",
+                  "ssr",
+                  "state-management",
+                  "typesafe",
+                  "typescript",
+                  "url"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -433,12 +755,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.",
+                "homepage": "https://nuqs.dev",
                 "id": 262932920,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:31:11Z",
+                "open_issues": 45,
                 "owner": "47ng",
                 "repo": "nuqs",
-                "stars": 10773
+                "stars": 10772,
+                "topics": [
+                  "query-params",
+                  "react",
+                  "search-params",
+                  "state-management",
+                  "type-safe",
+                  "type-safety",
+                  "url-parameters",
+                  "url-params",
+                  "url-state"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -449,12 +786,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+                "homepage": "https://tanstack.com/form",
                 "id": 75044525,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
+                "open_issues": 181,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6676
+                "stars": 6676,
+                "topics": [
+                  "angular",
+                  "form",
+                  "forms",
+                  "hacktoberfest",
+                  "hooks",
+                  "lit",
+                  "react",
+                  "solid",
+                  "tanstack",
+                  "vue",
+                  "yup",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -465,12 +820,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.",
+                "homepage": "https://github.com/ivanhofer/typesafe-i18n",
                 "id": 324985811,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-22T20:28:52Z",
+                "open_issues": 41,
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
-                "stars": 2475
+                "stars": 2475,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "i18n",
+                  "internationalization",
+                  "javascript",
+                  "lightweight",
+                  "localization",
+                  "nodejs",
+                  "react",
+                  "solid",
+                  "svelte",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -481,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://react-ts-form.com",
                 "id": 582113550,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-22T21:46:48Z",
+                "open_issues": 27,
                 "owner": "iway1",
                 "repo": "react-ts-form",
-                "stars": 2041
+                "stars": 2041,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -497,12 +876,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Call & Await React Components",
+                "homepage": "https://react-call.desko.dev",
                 "id": 840752946,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-16T22:19:39Z",
+                "open_issues": 2,
                 "owner": "desko27",
                 "repo": "react-call",
-                "stars": 1368
+                "stars": 1368,
+                "topics": [
+                  "dialog",
+                  "pattern",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -513,12 +902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://zsa.vercel.app",
                 "id": 794363176,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-20T23:49:45Z",
+                "open_issues": 37,
                 "owner": "IdoPesok",
                 "repo": "zsa",
-                "stars": 977
+                "stars": 977,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -529,12 +923,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fuse: The fastest way to build and query great APIs with TypeScript",
+                "homepage": "https://fusedata.dev",
                 "id": 713762158,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-22T15:38:21Z",
+                "open_issues": 17,
                 "owner": "StellateHQ",
                 "repo": "fuse",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "api",
+                  "graphql",
+                  "nextjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -545,12 +949,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and safe router for React and TypeScript.",
+                "homepage": "https://zoontek.github.io/chicane/",
                 "id": 420411399,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-11T11:23:40Z",
+                "open_issues": 1,
                 "owner": "zoontek",
                 "repo": "chicane",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "react",
+                  "router",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -561,12 +974,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fully-Typed Object-Based i18n Translation Library",
+                "homepage": "https://intl-t.dev/",
                 "id": 914928983,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T23:57:13Z",
+                "open_issues": 0,
                 "owner": "nivandres",
                 "repo": "intl-t",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "i18n",
+                  "intl",
+                  "library",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -577,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny wrapper library for React Router that dramatically improves type safety.",
+                "homepage": null,
                 "id": 601080579,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-16T11:01:36Z",
+                "open_issues": 0,
                 "owner": "jamesopstad",
                 "repo": "typesafe-router",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -600,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-runtime Stylesheets-in-TypeScript",
+                "homepage": "https://vanilla-extract.style",
                 "id": 351669095,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:56:47Z",
+                "open_issues": 73,
                 "owner": "vanilla-extract-css",
                 "repo": "vanilla-extract",
-                "stars": 10418
+                "stars": 10418,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -616,12 +1049,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️",
+                "homepage": "https://panda-css.com",
                 "id": 518342568,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:08:50Z",
+                "open_issues": 16,
                 "owner": "chakra-ui",
                 "repo": "panda",
-                "stars": 6169
+                "stars": 6169,
+                "topics": [
+                  "atomic-css",
+                  "compiler",
+                  "css",
+                  "css-in-js",
+                  "design-system",
+                  "design-tokens",
+                  "engine",
+                  "framework-agnostic",
+                  "jit-compiler",
+                  "postcss",
+                  "styled-system",
+                  "theming",
+                  "typescript",
+                  "utility-classes"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -632,12 +1085,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦄 Tailwindcss first-class variant API",
+                "homepage": "https://tailwind-variants.org",
                 "id": 588331095,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T08:31:58Z",
+                "open_issues": 4,
                 "owner": "heroui-inc",
                 "repo": "tailwind-variants",
-                "stars": 3292
+                "stars": 3292,
+                "topics": [
+                  "classnames",
+                  "css",
+                  "tailwindcss",
+                  "variants"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -648,12 +1111,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create reusable React + Tailwind CSS components in one line ✨",
+                "homepage": "https://react-twc.vercel.app",
                 "id": 729177626,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-14T20:10:06Z",
+                "open_issues": 1,
                 "owner": "gregberge",
                 "repo": "twc",
-                "stars": 1417
+                "stars": 1417,
+                "topics": [
+                  "react",
+                  "styled-components",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -664,12 +1136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The utility-first CSS lib for type-safe design systems. No runtime injection, no class soup, no specificity wars—just predictable styling with atomic CSS variables.",
+                "homepage": "https://tokenami.com",
                 "id": 655692377,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-28T01:33:17Z",
+                "open_issues": 16,
                 "owner": "tokenami",
                 "repo": "tokenami",
-                "stars": 1016
+                "stars": 1016,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -680,12 +1157,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tw-classed.vercel.app",
                 "id": 497153925,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-22T17:35:43Z",
+                "open_issues": 3,
                 "owner": "sannajammeh",
                 "repo": "tw-classed",
-                "stars": 527
+                "stars": 528,
+                "topics": [
+                  "components",
+                  "css-in-js",
+                  "css-in-ts",
+                  "react",
+                  "reactjs",
+                  "tailwind"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -703,12 +1192,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔌 TypeScript bindings for Ethereum smart contracts",
+                "homepage": null,
                 "id": 102210005,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-10T10:41:35Z",
+                "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2792
+                "stars": 2792,
+                "topics": [
+                  "abi",
+                  "blockchain",
+                  "ethereum",
+                  "smartcontract",
+                  "solidity",
+                  "truffle",
+                  "typescript",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -719,12 +1222,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strict TypeScript types for Ethereum ABIs",
+                "homepage": "https://abitype.dev",
                 "id": 520970312,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:45:54Z",
+                "open_issues": 0,
                 "owner": "wevm",
                 "repo": "abitype",
-                "stars": 547
+                "stars": 547,
+                "topics": [
+                  "abi",
+                  "ethereum",
+                  "static-types",
+                  "type-inference",
+                  "types",
+                  "typescript",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -742,12 +1258,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build production-ready applications in TypeScript",
+                "homepage": "https://effect.website",
                 "id": 221458136,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:16:43Z",
+                "open_issues": 233,
                 "owner": "Effect-TS",
                 "repo": "effect",
-                "stars": 15549
+                "stars": 15552,
+                "topics": [
+                  "cli",
+                  "clustering",
+                  "concurrency",
+                  "dependency-injection",
+                  "effect",
+                  "error-handling",
+                  "javascript",
+                  "observability",
+                  "opentelemetry",
+                  "platform",
+                  "schema",
+                  "typescript",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -758,12 +1293,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+                "homepage": null,
                 "id": 266582853,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T23:33:38Z",
+                "open_issues": 72,
                 "owner": "gvergnaud",
                 "repo": "ts-pattern",
-                "stars": 15139
+                "stars": 15139,
+                "topics": [
+                  "branching",
+                  "conditions",
+                  "exhaustive",
+                  "inference",
+                  "javascript",
+                  "matching",
+                  "pattern",
+                  "pattern-matching",
+                  "ts",
+                  "type-inference",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -774,12 +1326,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming in TypeScript",
+                "homepage": "https://gcanti.github.io/fp-ts/",
                 "id": 80039696,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-20T19:55:05Z",
+                "open_issues": 191,
                 "owner": "gcanti",
                 "repo": "fp-ts",
-                "stars": 11541
+                "stars": 11541,
+                "topics": [
+                  "algebraic-data-types",
+                  "functional-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -790,12 +1351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.",
+                "homepage": "https://es-toolkit.dev",
                 "id": 791801483,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:36:48Z",
+                "open_issues": 51,
                 "owner": "toss",
                 "repo": "es-toolkit",
-                "stars": 11317
+                "stars": 11317,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -806,12 +1372,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👷 TypeScript's largest type utility library",
+                "homepage": "https://millsp.github.io/ts-toolbelt/",
                 "id": 190928426,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-02T02:46:18Z",
+                "open_issues": 84,
                 "owner": "millsp",
                 "repo": "ts-toolbelt",
-                "stars": 7153
+                "stars": 7153,
+                "topics": [
+                  "dynamic-types",
+                  "safety",
+                  "type-checking",
+                  "type-safety",
+                  "type-utilities",
+                  "types",
+                  "typescript",
+                  "typescript-library",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -822,12 +1403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strongly typed string functions",
+                "homepage": null,
                 "id": 657643653,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T23:19:26Z",
+                "open_issues": 4,
                 "owner": "gustavoguichard",
                 "repo": "string-ts",
-                "stars": 1257
+                "stars": 1257,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -838,12 +1424,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Essential building-blocks for functional & safe TypeScript code",
+                "homepage": "https://boxed.cool/",
                 "id": 471739015,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T13:22:07Z",
+                "open_issues": 2,
                 "owner": "bloodyowl",
                 "repo": "boxed",
-                "stars": 762
+                "stars": 762,
+                "topics": [
+                  "adt",
+                  "fp",
+                  "functional",
+                  "future",
+                  "monads",
+                  "option",
+                  "result",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -854,12 +1454,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RegExp wrapper providing stronger type safety.",
+                "homepage": null,
                 "id": 1019009877,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T14:56:04Z",
+                "open_issues": 12,
                 "owner": "codpro2005",
                 "repo": "ts-regexp",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "regex",
+                  "regexp",
+                  "regular-expression",
+                  "type-level",
+                  "type-safe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -877,12 +1489,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+                "homepage": "https://mastra.ai",
                 "id": 839037098,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T01:12:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:15:57Z",
+                "open_issues": 544,
                 "owner": "mastra-ai",
                 "repo": "mastra",
-                "stars": 27547
+                "stars": 27548,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "chatbots",
+                  "evals",
+                  "javascript",
+                  "llm",
+                  "mcp",
+                  "nextjs",
+                  "nodejs",
+                  "reactjs",
+                  "tts",
+                  "typescript",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -893,12 +1524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The sandbox agent framework.",
+                "homepage": "https://www.flueframework.com",
                 "id": 1152451571,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:42:59Z",
+                "open_issues": 38,
                 "owner": "withastro",
                 "repo": "flue",
-                "stars": 8060
+                "stars": 8063,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -909,12 +1545,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Framework for Building Agents",
+                "homepage": "https://eve.dev",
                 "id": 1271113810,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T01:31:40Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:32:04Z",
+                "open_issues": 732,
                 "owner": "vercel",
                 "repo": "eve",
-                "stars": 4857
+                "stars": 4860,
+                "topics": [
+                  "agent",
+                  "framework",
+                  "harness",
+                  "javascript",
+                  "markdown",
+                  "sandbox",
+                  "typescript",
+                  "vercel",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -932,12 +1583,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript-first schema validation with static type inference",
+                "homepage": "https://zod.dev",
                 "id": 245704608,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:59:43Z",
+                "open_issues": 76,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 43556
+                "stars": 43556,
+                "topics": [
+                  "runtime-validation",
+                  "schema-validation",
+                  "static-types",
+                  "type-inference",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -948,12 +1610,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of essential TypeScript types",
+                "homepage": null,
                 "id": 175398594,
                 "language": "TypeScript",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-26T12:21:42Z",
+                "open_issues": 226,
                 "owner": "sindresorhus",
                 "repo": "type-fest",
-                "stars": 17386
+                "stars": 17386,
+                "topics": [
+                  "npm-package",
+                  "types",
+                  "typescript",
+                  "typescript-definitions",
+                  "utilities"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -964,12 +1637,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The modular and type safe schema library for validating structural data 🤖",
+                "homepage": "https://valibot.dev",
                 "id": 663456281,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T09:03:59Z",
+                "open_issues": 175,
                 "owner": "open-circle",
                 "repo": "valibot",
-                "stars": 8969
+                "stars": 8969,
+                "topics": [
+                  "bundle-size",
+                  "form-validation",
+                  "modular",
+                  "parsing",
+                  "runtime",
+                  "runtime-validation",
+                  "schema",
+                  "schema-validation",
+                  "standard-schema",
+                  "type-inference",
+                  "type-safe",
+                  "typescript",
+                  "validation",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -980,12 +1673,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-Safe Errors for JS & TypeScript",
+                "homepage": null,
                 "id": 183857874,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-14T23:23:06Z",
+                "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7692
+                "stars": 7692,
+                "topics": [
+                  "functional-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -996,12 +1697,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super-fast/easy runtime validators and serializers via transformation",
+                "homepage": "https://typia.io/",
                 "id": 482949726,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T06:17:30Z",
+                "open_issues": 9,
                 "owner": "samchon",
                 "repo": "typia",
-                "stars": 5879
+                "stars": 5879,
+                "topics": [
+                  "agentic-ai",
+                  "ajv",
+                  "checker",
+                  "fast",
+                  "generator",
+                  "hacktoberfest",
+                  "json",
+                  "json-schema",
+                  "llm-function-calling",
+                  "openapi",
+                  "protobuf",
+                  "random",
+                  "runtime",
+                  "stringify",
+                  "transform",
+                  "type",
+                  "typescript",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1012,12 +1737,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-safe .env files: Schemas for agents, Secrets for humans.",
+                "homepage": "https://varlock.dev",
                 "id": 964356943,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:13:40Z",
+                "open_issues": 57,
                 "owner": "dmno-dev",
                 "repo": "varlock",
-                "stars": 4232
+                "stars": 4232,
+                "topics": [
+                  "configuration",
+                  "dotenv",
+                  "env",
+                  "env-vars",
+                  "schema",
+                  "security",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1028,12 +1766,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.",
+                "homepage": "https://conform.guide",
                 "id": 477299478,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T05:17:16Z",
+                "open_issues": 53,
                 "owner": "edmundhung",
                 "repo": "conform",
-                "stars": 2576
+                "stars": 2576,
+                "topics": [
+                  "form-validation",
+                  "nextjs",
+                  "progressive-enhancement",
+                  "react",
+                  "react-router",
+                  "remix-run",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1044,12 +1795,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "typescript http client and server with zod validation",
+                "homepage": "https://www.zodios.org/",
                 "id": 458816216,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:48:47Z",
+                "open_issues": 23,
                 "owner": "ecyrbe",
                 "repo": "zodios",
-                "stars": 1915
+                "stars": 1915,
+                "topics": [
+                  "api",
+                  "http",
+                  "nodejs",
+                  "openapi",
+                  "rest",
+                  "typescript",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1060,12 +1824,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.",
+                "homepage": "https://true-myth.dev",
                 "id": 104394958,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:05:36Z",
+                "open_issues": 15,
                 "owner": "true-myth",
                 "repo": "true-myth",
-                "stars": 1362
+                "stars": 1362,
+                "topics": [
+                  "applicatives",
+                  "functional-programming",
+                  "functors",
+                  "javascript",
+                  "monads",
+                  "typescript",
+                  "typescript-definitions",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1076,12 +1854,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe CLI library / framework with no runtime dependencies",
+                "homepage": "https://mael.dev/clipanion/",
                 "id": 87702856,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-09-06T09:16:49Z",
+                "open_issues": 42,
                 "owner": "arcanis",
                 "repo": "clipanion",
-                "stars": 1256
+                "stars": 1256,
+                "topics": [
+                  "cli",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1092,12 +1878,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.",
+                "homepage": "https://github.com/KATT/envsafe",
                 "id": 295991605,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-06-02T14:58:23Z",
+                "open_issues": 4,
                 "owner": "KATT",
                 "repo": "envsafe",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "env",
+                  "environment-variables",
+                  "nodejs",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1108,12 +1904,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better typed `querySelector` and `querySelectorAll`.",
+                "homepage": "https://www.npmjs.com/package/typed-query-selector",
                 "id": 312544654,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-10T06:59:50Z",
+                "open_issues": 0,
                 "owner": "g-plane",
                 "repo": "typed-query-selector",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "parser",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1124,12 +1928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Types and functions to make composition easy and safe",
+                "homepage": null,
                 "id": 469882687,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-30T00:59:30Z",
+                "open_issues": 4,
                 "owner": "seasonedcc",
                 "repo": "composable-functions",
-                "stars": 743
+                "stars": 743,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1140,12 +1949,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type safe routing for Next.js",
+                "homepage": null,
                 "id": 473849262,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-17T01:11:20Z",
+                "open_issues": 12,
                 "owner": "tatethurston",
                 "repo": "nextjs-routes",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "next",
+                  "nextjs",
+                  "routing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1156,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type safe dependency injection for TypeScript",
+                "homepage": null,
                 "id": 167599152,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-01T19:12:10Z",
+                "open_issues": 18,
                 "owner": "nicojs",
                 "repo": "typed-inject",
-                "stars": 623
+                "stars": 623,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1172,12 +1996,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
+                "homepage": null,
                 "id": 660260367,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-29T16:25:30Z",
+                "open_issues": 2,
                 "owner": "jetify-com",
                 "repo": "typeid-js",
-                "stars": 435
+                "stars": 435,
+                "topics": [
+                  "guid",
+                  "js",
+                  "ts",
+                  "typeid",
+                  "typescript",
+                  "uuid",
+                  "uuidv7"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1188,12 +2025,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe API Route Handlers for Next.js",
+                "homepage": null,
                 "id": 740757634,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-29T18:37:46Z",
+                "open_issues": 0,
                 "owner": "venables",
                 "repo": "typed-route-handler",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             },
@@ -1204,12 +2046,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Type-safe and validated Route Handlers for Next.js",
+                "homepage": "https://npm.im/next-safe-route",
                 "id": 812532999,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-22T20:22:17Z",
+                "open_issues": 6,
                 "owner": "richardsolomou",
                 "repo": "next-safe-route",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "api",
+                  "handler",
+                  "next",
+                  "nextjs",
+                  "route",
+                  "typesafe",
+                  "typescript",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-29T01:44:09.081Z"
             }
@@ -1223,15 +2079,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:09.081Z",
+    "last_updated": "2026-08-29T04:54:56.517Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome 🔥 TypeScript Typesafe Libraries🔥",
+      "homepage": "http://typesafe.itman.fyi/",
       "id": 535631825,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-05T02:53:33Z",
+      "open_issues": 8,
       "owner": "jellydn",
       "repo": "awesome-typesafe",
-      "stars": 182
+      "stars": 182,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "typesafe",
+        "typescript"
+      ]
     },
     "original_repository_sha": "680f31e6fe95dd4deb8a756ca359d0b615b18aac",
     "enhanced_repository": "enhansome/enhansome-typesafe",
