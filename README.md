@@ -36,10 +36,10 @@
 
 ### Database
 
-* [koskimas/kysely](https://github.com/koskimas/kysely) ⭐ 14,322 | 🐛 216 | 🌐 TypeScript | 📅 2026-10-31 - A type-safe TypeScript SQL query builder.
+* [koskimas/kysely](https://github.com/koskimas/kysely) ⭐ 14,324 | 🐛 208 | 🌐 TypeScript | 📅 2026-11-01 - A type-safe TypeScript SQL query builder.
 * [gajus/slonik](https://github.com/gajus/slonik) ⭐ 4,937 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-24 - A Node.js PostgreSQL client with runtime and build-time type safety, and composable SQL.
 * [ts-safeql/safeql](https://github.com/ts-safeql/safeql) ⭐ 1,571 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-27 - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
-* [kristiandupont/kanel](https://github.com/kristiandupont/kanel) ⭐ 1,184 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-30 - Generate Typescript types from Postgres.
+* [kristiandupont/kanel](https://github.com/kristiandupont/kanel) ⭐ 1,184 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-31 - Generate Typescript types from Postgres.
 * [wsporto/typesql](https://github.com/wsporto/typesql) ⭐ 334 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-06 - Generate Typescript API from raw MySQL queries. Supports MySQL, Sqlite and LibSQL (Turso).
 * [litdb/litdb](https://github.com/litdb/litdb) ⭐ 327 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-10 - Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL.
 * [samchon/safe-typeorm](https://github.com/samchon/safe-typeorm) ⚠️ Archived - TypeORM helper library enhancing safety in the compilation level.
@@ -50,10 +50,10 @@
 
 ### APIs
 
-* [trpc/trpc](https://github.com/trpc/trpc) ⭐ 40,758 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-31 - Create end-to-end typesafe APIs with ease.
-* [encoredev/encore](https://github.com/encoredev/encore) ⭐ 12,668 | 🐛 149 | 🌐 Go | 📅 2026-10-29 - Type-safe backend framework with declarative infrastructure and automatic API client generation.
-* [orval-labs/orval](https://github.com/orval-labs/orval) ⭐ 6,579 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-31 - Generate type-safe TypeScript clients, hooks, and mocks from OpenAPI/Swagger specs.
-* [cloudflare/capnweb](https://github.com/cloudflare/capnweb) ⭐ 4,028 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-28 - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system.
+* [trpc/trpc](https://github.com/trpc/trpc) ⭐ 40,759 | 🐛 193 | 🌐 TypeScript | 📅 2026-11-01 - Create end-to-end typesafe APIs with ease.
+* [encoredev/encore](https://github.com/encoredev/encore) ⭐ 12,676 | 🐛 149 | 🌐 Go | 📅 2026-10-29 - Type-safe backend framework with declarative infrastructure and automatic API client generation.
+* [orval-labs/orval](https://github.com/orval-labs/orval) ⭐ 6,579 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-01 - Generate type-safe TypeScript clients, hooks, and mocks from OpenAPI/Swagger specs.
+* [cloudflare/capnweb](https://github.com/cloudflare/capnweb) ⭐ 4,029 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-28 - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system.
 * [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) ⚠️ Archived - RPC-like client, contract, and server implementation for a pure REST API.
 * [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) ⭐ 1,336 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - Hyper Fetch is a data-exchange framework focusing on type-safe design and ease of use.
 * [stepci/garph](https://github.com/stepci/garph) ⭐ 1,312 | 🐛 27 | 🌐 TypeScript | 📅 2024-03-01 - Fullstack GraphQL Framework for TypeScript.
@@ -66,21 +66,21 @@
 
 ### GraphQL
 
-* [0no-co/gql.tada](https://github.com/0no-co/gql.tada) ⭐ 2,977 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 - Magical GraphQL query engine for TypeScript.
-* [hayes/pothos](https://github.com/hayes/pothos) ⭐ 2,628 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-31 - Create GraphQL schemas in TypeScript using a strongly typed code-first approach.
-* [gqty-dev/gqty](https://github.com/gqty-dev/gqty) ⭐ 1,039 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-31 - A GraphQL client built for rapid iteration.
+* [0no-co/gql.tada](https://github.com/0no-co/gql.tada) ⭐ 2,978 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 - Magical GraphQL query engine for TypeScript.
+* [hayes/pothos](https://github.com/hayes/pothos) ⭐ 2,627 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-01 - Create GraphQL schemas in TypeScript using a strongly typed code-first approach.
+* [gqty-dev/gqty](https://github.com/gqty-dev/gqty) ⭐ 1,039 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-01 - A GraphQL client built for rapid iteration.
 * [captbaritone/grats](https://github.com/captbaritone/grats) ⭐ 356 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-13 - Implementation-First GraphQL for TypeScript.
 
 <a name="web"/>
 
 ### Web
 
-* [TanStack/router](https://github.com/tanstack/router) ⭐ 15,268 | 🐛 807 | 🌐 TypeScript | 📅 2026-10-31 - Type-safe router with built-in caching & URL state management for various frameworks.
-* [47ng/nuqs](https://github.com/47ng/nuqs) ⭐ 10,899 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-29 - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
-* [TanStack/form](https://github.com/TanStack/form) ⭐ 6,759 | 🐛 226 | 🌐 TypeScript | 📅 2026-10-31 - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+* [TanStack/router](https://github.com/tanstack/router) ⭐ 15,275 | 🐛 803 | 🌐 TypeScript | 📅 2026-11-01 - Type-safe router with built-in caching & URL state management for various frameworks.
+* [47ng/nuqs](https://github.com/47ng/nuqs) ⭐ 10,899 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-01 - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+* [TanStack/form](https://github.com/TanStack/form) ⭐ 6,761 | 🐛 226 | 🌐 TypeScript | 📅 2026-10-31 - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 * [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,477 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 * [iway1/react-ts-form](https://github.com/iway1/react-ts-form) ⚠️ Archived - Build maintainable, type-safe forms faster.
-* [desko27/react-call](https://github.com/desko27/react-call) ⭐ 1,377 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-01 - Call your React components
+* [desko27/react-call](https://github.com/desko27/react-call) ⭐ 1,377 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - Call your React components
 * [IdoPesok/zsa](https://github.com/IdoPesok/zsa) ⭐ 972 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-26 - Typesafe Server Actions for Next.js.
 * [StellateHQ/fuse.js](https://github.com/StellateHQ/fuse.js) ⭐ 566 | 🐛 17 | 🌐 TypeScript | 📅 2025-03-22 - Fuse.js: The opinionated framework for creating typesafe data layers
 * [swan-io/chicane](https://github.com/swan-io/chicane) ⭐ 467 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-11 - A simple and safe router for React and TypeScript.
@@ -91,28 +91,28 @@
 
 ### Styles
 
-* [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,445 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-08 - Zero-runtime Stylesheets-in-TypeScript.
-* [chakra-ui/panda](https://github.com/chakra-ui/panda) ⭐ 6,242 | 🐛 12 | 🌐 Rust | 📅 2026-10-31 - Universal, Type-Safe, CSS-in-JS Framework for Product Teams.
-* [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) ⭐ 3,327 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - Tailwindcss first-class variant API.
+* [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,445 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-01 - Zero-runtime Stylesheets-in-TypeScript.
+* [chakra-ui/panda](https://github.com/chakra-ui/panda) ⭐ 6,241 | 🐛 10 | 🌐 Rust | 📅 2026-11-01 - Universal, Type-Safe, CSS-in-JS Framework for Product Teams.
+* [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) ⭐ 3,328 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - Tailwindcss first-class variant API.
 * [gregberge/twc](https://github.com/gregberge/twc) ⭐ 1,414 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-14 - Create reusable React + Tailwind components in one line.
-* [tokenami/tokenami](https://github.com/tokenami/tokenami) ⭐ 1,022 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-11 - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
+* [tokenami/tokenami](https://github.com/tokenami/tokenami) ⭐ 1,023 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-11 - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
 * [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) ⭐ 528 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-22 - Make your Tailwind components re-usable.
 
 <a name="blockchain"/>
 
 ### Blockchain
 
-* [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) ⭐ 2,789 | 🐛 127 | 🌐 TypeScript | 📅 2024-07-10 - TypeScript bindings for Ethereum smart contracts.
+* [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) ⭐ 2,790 | 🐛 127 | 🌐 TypeScript | 📅 2024-07-10 - TypeScript bindings for Ethereum smart contracts.
 * [wagmi-dev/abitype](https://github.com/wagmi-dev/abitype) ⭐ 551 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-31 - Strict TypeScript types for Ethereum ABIs.
 
 <a name="functional-programming"/>
 
 ### Functional Programming
 
-* [Effect-TS/effect](https://github.com/Effect-TS/effect) ⭐ 17,443 | 🐛 110 | 🌐 TypeScript | 📅 2026-10-31 - A fully-fledged functional effect system for TypeScript with a rich standard library.
-* [gvergnaud/TS-Pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,207 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-14 - The exhaustive Pattern Matching library for TypeScript with smart type inference.
+* [Effect-TS/effect](https://github.com/Effect-TS/effect) ⭐ 17,455 | 🐛 128 | 🌐 TypeScript | 📅 2026-11-01 - A fully-fledged functional effect system for TypeScript with a rich standard library.
+* [gvergnaud/TS-Pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,207 | 🐛 87 | 🌐 TypeScript | 📅 2026-10-14 - The exhaustive Pattern Matching library for TypeScript with smart type inference.
 * [gcanti/fp-ts](https://github.com/gcanti/fp-ts) ⭐ 11,548 | 🐛 190 | 🌐 TypeScript | 📅 2026-04-20 - A library for typed functional programming in TypeScript.
-* [toss/es-toolkit](https://github.com/toss/es-toolkit) ⭐ 11,385 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-30 - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+* [toss/es-toolkit](https://github.com/toss/es-toolkit) ⭐ 11,386 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-01 - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 * [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) ⭐ 7,152 | 🐛 83 | 🌐 TypeScript | 📅 2025-06-02 - TypeScript's largest type utility library.
 * [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) ⭐ 1,253 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Strongly typed string functions.
 * [swan-io/boxed](https://github.com/swan-io/boxed?) ⭐ 767 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14 - Essential building-blocks for functional & safe TypeScript code.
@@ -122,23 +122,23 @@
 
 ### AI
 
-* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,239 | 🐛 663 | 🌐 TypeScript | 📅 2026-10-31 - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
-* [withastro/flue](https://github.com/withastro/flue) ⭐ 8,577 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-17 - The sandbox agent framework from Astro.
-* [vercel/eve](https://github.com/vercel/eve) ⭐ 5,753 | 🐛 735 | 🌐 TypeScript | 📅 2026-10-31 - The framework for building agents.
+* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,259 | 🐛 688 | 🌐 TypeScript | 📅 2026-11-01 - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
+* [withastro/flue](https://github.com/withastro/flue) ⭐ 8,579 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-17 - The sandbox agent framework from Astro.
+* [vercel/eve](https://github.com/vercel/eve) ⭐ 5,761 | 🐛 755 | 🌐 TypeScript | 📅 2026-11-01 - The framework for building agents.
 
 <a name="others"/>
 
 ### Others
 
-* [colinhacks/zod](https://github.com/colinhacks/zod) ⭐ 44,236 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-30 - TypeScript-first schema validation with static type inference.
-* [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,483 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-31 - A collection of essential TypeScript types.
-* [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) ⭐ 9,052 | 🐛 234 | 🌐 TypeScript | 📅 2026-10-31 - The modular and type safe schema library for validating structural data.
-* [supermacro/neverthrow](https://github.com/supermacro/neverthrow) ⭐ 7,760 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-14 - Type-Safe Errors for JavaScript & TypeScript.
-* [samchon/typia](https://github.com/samchon/typia) ⭐ 5,960 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - Super-fast/easy Runtime validator.
-* [dmno-dev/varlock](https://github.com/dmno-dev/varlock) ⭐ 4,874 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-30 - AI-safe .env files with schema-driven validation, secret handling, and leak scanning.
-* [edmundhung/conform](https://github.com/edmundhung/conform) ⭐ 2,587 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-31 - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
+* [colinhacks/zod](https://github.com/colinhacks/zod) ⭐ 44,242 | 🐛 118 | 🌐 TypeScript | 📅 2026-10-30 - TypeScript-first schema validation with static type inference.
+* [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,486 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-01 - A collection of essential TypeScript types.
+* [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) ⭐ 9,054 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-31 - The modular and type safe schema library for validating structural data.
+* [supermacro/neverthrow](https://github.com/supermacro/neverthrow) ⭐ 7,762 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-14 - Type-Safe Errors for JavaScript & TypeScript.
+* [samchon/typia](https://github.com/samchon/typia) ⭐ 5,961 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - Super-fast/easy Runtime validator.
+* [dmno-dev/varlock](https://github.com/dmno-dev/varlock) ⭐ 4,875 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-30 - AI-safe .env files with schema-driven validation, secret handling, and leak scanning.
+* [edmundhung/conform](https://github.com/edmundhung/conform) ⭐ 2,587 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-01 - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 * [ecyrbe/zodios](https://github.com/ecyrbe/zodios) ⭐ 1,918 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-28 - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
-* [true-myth/true-myth](https://github.com/true-myth/true-myth) ⭐ 1,369 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-31 - A library for safer and smarter error- and "nothing"-handling in TypeScript.
+* [true-myth/true-myth](https://github.com/true-myth/true-myth) ⭐ 1,369 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-01 - A library for safer and smarter error- and "nothing"-handling in TypeScript.
 * [arcanis/clipanion](https://github.com/arcanis/clipanion) ⭐ 1,260 | 🐛 43 | 🌐 TypeScript | 📅 2024-09-06 - Type-safe CLI library / framework with no runtime dependencies.
 * [KATT/envsafe](https://github.com/KATT/envsafe) ⭐ 805 | 🐛 4 | 🌐 TypeScript | 📅 2023-06-02 - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 * [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) ⭐ 786 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Better typed `querySelector` and `querySelectorAll`.
@@ -178,8 +178,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 88 | 🌐 MDX | 📅 2026-10-29 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 89 | 🌐 MDX | 📅 2026-11-01 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
